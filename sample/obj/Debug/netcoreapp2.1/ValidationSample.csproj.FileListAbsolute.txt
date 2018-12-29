@@ -1,0 +1,6 @@
+C:\Users\WQ\source\repos\Docs\aspnetcore\mvc\models\validation\sample\obj\Debug\netcoreapp2.1\ValidationSample.csprojAssemblyReference.cache
+C:\Users\WQ\source\repos\Docs\aspnetcore\mvc\models\validation\sample\obj\Debug\netcoreapp2.1\ValidationSample.csproj.CoreCompileInputs.cache
+C:\Users\WQ\source\repos\Docs\aspnetcore\mvc\models\validation\sample\obj\Debug\netcoreapp2.1\ValidationSample.RazorAssemblyInfo.cache
+C:\Users\WQ\source\repos\Docs\aspnetcore\mvc\models\validation\sample\obj\Debug\netcoreapp2.1\ValidationSample.RazorAssemblyInfo.cs
+C:\Users\WQ\source\repos\Docs\aspnetcore\mvc\models\validation\sample\obj\Debug\netcoreapp2.1\ValidationSample.AssemblyInfoInputs.cache
+C:\Users\WQ\source\repos\Docs\aspnetcore\mvc\models\validation\sample\obj\Debug\netcoreapp2.1\ValidationSample.AssemblyInfo.cs
